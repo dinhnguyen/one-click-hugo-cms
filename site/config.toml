@@ -1,3 +1,4 @@
-baseurl = "/"
+baseURL = "/"
 languageCode = "en-us"
-title = "Homepage"
+title = "Fobiz Documents"
+theme = "hugo-theme-learn"
