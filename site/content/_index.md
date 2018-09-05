@@ -5,8 +5,7 @@ title: "Hướng dẫn sử dụng Fobiz"
 # Hướng dẫn sử dụng Fobiz
 
 
-{{% notice tip %}}Đây chỉ là hướng dẫn sử dụng tạm thời :)
-{{% /notice %}}
+
 
 ## Các chức năng chính
 
