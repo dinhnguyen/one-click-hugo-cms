@@ -1,4 +1,4 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Fobiz Documents"
-theme = "hugo-theme-learn"
+theme = "ananke"
